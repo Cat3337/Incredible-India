@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
 <<<<<<< HEAD
-    title: `PInput`,
+    title: `Pinput`,
 =======
     title: `Incredible India`,
 >>>>>>> b0a3d0fff27d6a392e01c6f557c1ce3f92014201
