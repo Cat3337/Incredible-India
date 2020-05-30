@@ -10,9 +10,9 @@ module.exports = {
       summary: `who believes in miracles.`
     },
     description: `Storytelling from all around the world.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
+    siteUrl: `https://quizzical-meninsky-7e3ba8.netlify.app/`,
     social: {
-      twitter: `#stillworkingonit`
+      twitter: `stillinprocress`
     }
   },
   plugins: [
