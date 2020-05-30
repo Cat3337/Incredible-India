@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Incredible India`,
+    title: `PInput`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`
+      name: `Chris`,
+      summary: `who believes in miracles.`
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `Storytelling from all around the world.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
     social: {
-      twitter: `kylemathews`
+      twitter: `#stillworkingonit`
     }
   },
   plugins: [
